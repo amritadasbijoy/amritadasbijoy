@@ -10,8 +10,8 @@ I also build small tools for myself and for clients: macOS menu bar apps, web to
 - **[homebrew-tap](https://github.com/amritadasbijoy/homebrew-tap)**: install my Mac apps with `brew install --cask`
 
 #### 🧰 Tools I use
-**Video:** Camtasia · Premiere Pro · After Effects · Remotion
-**Code:** Swift / SwiftUI · Python · JavaScript · HTML/CSS · Lua · WordPress
+- **Video:** Camtasia · Premiere Pro · After Effects · Remotion
+- **Code:** Swift / SwiftUI · Python · JavaScript · HTML/CSS · Lua · WordPress
 
 #### 🔗 Find me
 [Portfolio](https://amrita.bd) · [VideoCutStudio](https://videocutstudio.com) · [TechistBD blog](https://techistbd.com) · [LinkedIn](https://linkedin.com/in/amritabijoy) · [X](https://x.com/amritadasbijoy)
