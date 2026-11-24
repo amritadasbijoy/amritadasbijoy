@@ -1,4 +1,4 @@
-### Hi, I'm Amrita Chandra Das 👋
+### Hi, I'm [Amrita Chandra Das](https://amrita.bd) 👋
 
 Video editor and software builder from Bangladesh. I run **[VideoCutStudio](https://videocutstudio.com)**, where I edit eLearning courses, screencasts and tutorial videos. Since 2017 I've finished 147+ projects as a Top Rated Plus freelancer on Upwork, with 100% Job Success.
 
@@ -21,4 +21,4 @@ A free Chrome extension that fills the Indian visa application for Bangladesh mi
 - **Infra:** Linux VPS · Docker · Caddy · Cloudflare · Chrome extensions (Manifest V3) · OCR
 
 #### 🔗 Find me
-[Portfolio](https://amrita.bd) · [VideoCutStudio](https://videocutstudio.com) · [TechistBD blog](https://techistbd.com) · [LinkedIn](https://linkedin.com/in/amritabijoy) · [X](https://x.com/amritadasbijoy)
+[Portfolio: amrita.bd](https://amrita.bd) · [VideoCutStudio](https://videocutstudio.com) · [TechistBD blog](https://techistbd.com) · [LinkedIn](https://linkedin.com/in/amritabijoy) · [X](https://x.com/amritadasbijoy)
